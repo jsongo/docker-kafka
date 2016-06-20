@@ -1,5 +1,5 @@
-# FROM anapsix/alpine-java
-FROM java:openjdk-8-jre
+FROM anapsix/alpine-java
+#FROM java:openjdk-8-jre
 # forked from https://github.com/wurstmeister/kafka-docker.git
 
 MAINTAINER Wurstmeister 
